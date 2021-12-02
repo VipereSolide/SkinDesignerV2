@@ -1,0 +1,30 @@
+Main Color
+Color: rgba(32, 33, 34, 255)
+
+_
+
+Darker Color
+Color: rgba(23, 24, 25, 255)
+
+_
+
+Default Textures Color
+Color: rgba(255, 255, 255, 255)
+
+_
+
+Highlight Color
+Color: rgba(0, 255, 153, 255)
+
+_
+
+Selected Color
+Color: rgba(255, 156, 0, 255)
+
+_
+
+Hover Color
+Color: rgba(255, 156, 0, 13)
+
+_
+

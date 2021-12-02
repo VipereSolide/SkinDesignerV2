@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf9214c7313221c4bb11abd97382ba49, type: 3}
+  m_Name: KSG
+  m_EditorClassIdentifier: 
+  WeaponNameInGUI: KSG
+  WeaponImageInGUI: {fileID: 21300000, guid: e4dfff61a2afbef458bf32739375c9e2, type: 3}
+  WeaponInstantiatedModel: {fileID: 883804066016058164, guid: d0675455c3707de458fb3008b8295bb1, type: 3}
